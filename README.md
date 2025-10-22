@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+
+Hire me for a QA role. I'm ready to work for food and quickly learn everything necessary
 
 <!--
 **Timurscoofboomer/Timurscoofboomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
