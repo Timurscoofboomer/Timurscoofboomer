@@ -2,6 +2,8 @@
 
 Hire me for a QA role. I'm ready to work for food and quickly learn everything necessary
 
+my work resume(https://drive.google.com/file/d/1PW2ZW1sE8VXla_e2vC3z5asaQxavhpN6/view?usp=sharing)
+
 <!--
 **Timurscoofboomer/Timurscoofboomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
